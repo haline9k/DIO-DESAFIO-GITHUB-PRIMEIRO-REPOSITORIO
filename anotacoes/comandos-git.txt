@@ -1,0 +1,3 @@
+novas anotacoes
+criar repositorio no git hub
+git clone 'link ssh' para clonar o projeto
